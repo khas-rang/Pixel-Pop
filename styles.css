@@ -240,9 +240,9 @@ height: auto;
     margin: 0.8rem 0 1.8rem;
     line-height: 1.7;
 }
-.about .btn{
+/* .about .btn{
     margin: 10px 20px 0 0;
-}
+} */
 .about .btn:hover{
     transform: scale(1.1)translateY(1px);
     transition: .4s;
